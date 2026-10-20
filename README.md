@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/qvap/Glossy-Shell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-glossy-shell-dark.svg"><img src="assets/project-glossy-shell-light.svg" width="49%" alt="Glossy-Shell"></picture></a>&nbsp;<a href="https://github.com/qvap/YAP--Lab-1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-yap-lab-1-dark.svg"><img src="assets/project-yap-lab-1-light.svg" width="49%" alt="YAP--Lab-1"></picture></a>
-
-<a href="https://github.com/qvap/OOP--Lab-3.1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-oop-lab-3-1-dark.svg"><img src="assets/project-oop-lab-3-1-light.svg" width="49%" alt="OOP--Lab-3.1"></picture></a>&nbsp;<a href="https://github.com/qvap/OOP--Lab-3.2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-oop-lab-3-2-dark.svg"><img src="assets/project-oop-lab-3-2-light.svg" width="49%" alt="OOP--Lab-3.2"></picture></a>
+<a href="https://github.com/qvap/Glossy-Shell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-glossy-shell-dark.svg"><img src="assets/project-glossy-shell-light.svg" width="49%" alt="Glossy-Shell"></picture></a>&nbsp;<a href="https://github.com/qvap/QV-Rhythm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-qv-rhythm-dark.svg"><img src="assets/project-qv-rhythm-light.svg" width="49%" alt="QV-Rhythm"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

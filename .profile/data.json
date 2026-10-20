@@ -1,0 +1,352 @@
+{
+ "key": "50bc1965",
+ "stars": 8,
+ "contributions": 134,
+ "repos": 21,
+ "followers": 3,
+ "languages": [
+  [
+   "GDScript",
+   310304
+  ],
+  [
+   "QML",
+   107010
+  ],
+  [
+   "JavaScript",
+   89217
+  ],
+  [
+   "HTML",
+   61167
+  ],
+  [
+   "C++",
+   47517
+  ],
+  [
+   "Python",
+   45455
+  ],
+  [
+   "C#",
+   25993
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "Glossy-Shell",
+   "url": "https://github.com/qvap/Glossy-Shell",
+   "text": "Linux Shell built on Quickshell framework",
+   "fork": false,
+   "stars": 1,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "QV-Rhythm",
+   "url": "https://github.com/qvap/QV-Rhythm",
+   "text": "QV: Rhythm repository",
+   "fork": false,
+   "stars": 0,
+   "language": "GDScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "end4-pC",
+   "url": "https://github.com/qvap/end4-pC",
+   "text": "Custom end4",
+   "fork": true,
+   "stars": 1,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Glossy-Shell",
+   "url": "https://github.com/qvap/Glossy-Shell",
+   "text": "Linux Shell built on Quickshell framework",
+   "fork": false,
+   "stars": 1,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "YAP--Lab-1",
+   "url": "https://github.com/qvap/YAP--Lab-1",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "OOP--Lab-5",
+   "url": "https://github.com/qvap/OOP--Lab-5",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "OOP--Lab-1",
+   "url": "https://github.com/qvap/OOP--Lab-1",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OOP--Lab-4",
+   "url": "https://github.com/qvap/OOP--Lab-4",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OOP--Lab-3.2",
+   "url": "https://github.com/qvap/OOP--Lab-3.2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OOP--Lab-3.1",
+   "url": "https://github.com/qvap/OOP--Lab-3.1",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OOP--Lab-2",
+   "url": "https://github.com/qvap/OOP--Lab-2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "yungp-dream",
+   "url": "https://github.com/qvap/yungp-dream",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dots-hyprland",
+   "url": "https://github.com/qvap/dots-hyprland",
+   "text": "Usability-first dotfiles",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "ctOS",
+   "url": "https://github.com/qvap/ctOS",
+   "text": "A working fictional user interface (FUI) inspired by the Central Operating System from the Watch Dogs universe.",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "YandexMusicModClient",
+   "url": "https://github.com/qvap/YandexMusicModClient",
+   "text": "Modification for Yandex Music Desktop application to add some features (OG proj TheKing-OfTime)",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ARCH--LAB-1",
+   "url": "https://github.com/qvap/ARCH--LAB-1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "ARCH--LAB-4",
+   "url": "https://github.com/qvap/ARCH--LAB-4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "YAP--Lab-4",
+   "url": "https://github.com/qvap/YAP--Lab-4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "YAP--Lab-5",
+   "url": "https://github.com/qvap/YAP--Lab-5",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "YAP--Lab-3",
+   "url": "https://github.com/qvap/YAP--Lab-3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "YAP--Lab-2",
+   "url": "https://github.com/qvap/YAP--Lab-2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "qvap",
+   "url": "https://github.com/qvap/qvap",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "QV-Rhythm",
+   "url": "https://github.com/qvap/QV-Rhythm",
+   "text": "QV: Rhythm repository",
+   "fork": false,
+   "stars": 0,
+   "language": "GDScript",
+   "topics": []
+  }
+ ]
+}
